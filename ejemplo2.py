@@ -6,3 +6,6 @@ def mensaje3():
 
 def mensaje5():
     print("mensaje5")
+
+def mensaje():
+    print("mensaje6")
